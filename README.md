@@ -15,6 +15,8 @@
 
 # Feedbacks
 https://drive.google.com/file/d/1nE2lcu0pnyRGzpfwtoP9CPdrvCIgm8F6/view?usp=sharing
+______________________________________
+It is a great application. I tried to search weather condition in my hometown in it showed everything I needed. Not only that it also shows weather condition five days ahead. It is a great website!
 
 # Youtube presentation link:
 https://youtu.be/9zGuzYKIxBA
