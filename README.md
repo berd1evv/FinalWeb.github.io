@@ -24,6 +24,12 @@ I have seen a lot of projects like this one, but I wont to say that this one has
 --------------------------------------
 I was surprised how smooth it was. I just just typed any city and it showed all information about weather in no time. Also when I made mistake in a city name it showed a pop up that that said “There is no such city” I thought there will be no answer.
 
+--------------------------------------
+That's really useful when you need only the weather to be shown and nothing else.
+
+--------------------------------------
+WOW. At first I thought that it contains information about only few cities and it show the same information all the time but I tried to search up every city that I know and it showed every detail about that city. Wonderful
+
 # Youtube presentation link:
 https://youtu.be/9zGuzYKIxBA
 
