@@ -21,6 +21,9 @@ It is a great application. I tried to search weather condition in my hometown in
 --------------------------------------
 I have seen a lot of projects like this one, but I wont to say that this one has a little bit advantages from others, because it shows not only the temperature ,it also shows the wind speed, longitude-latitude and humidity.This characteristics are really important for the making plan.I really appreciate this one! Great job.
 
+--------------------------------------
+I was surprised how smooth it was. I just just typed any city and it showed all information about weather in no time. Also when I made mistake in a city name it showed a pop up that that said “There is no such city” I thought there will be no answer.
+
 # Youtube presentation link:
 https://youtu.be/9zGuzYKIxBA
 
