@@ -4,6 +4,9 @@
 <p>You can see weather for today and another five days</p>
 
 <img src="img/screenshot.png" alt="">
+<img src="img/Screenshot1.png" alt="">
+
+# Feedbacks
 
 # Team Members List
 <h3>Bekmurzaev Elmir</h3>
