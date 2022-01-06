@@ -18,6 +18,9 @@ https://drive.google.com/file/d/1nE2lcu0pnyRGzpfwtoP9CPdrvCIgm8F6/view?usp=shari
 ______________________________________
 It is a great application. I tried to search weather condition in my hometown in it showed everything I needed. Not only that it also shows weather condition five days ahead. It is a great website!
 
+--------------------------------------
+I have seen a lot of projects like this one, but I wont to say that this one has a little bit advantages from others, because it shows not only the temperature ,it also shows the wind speed, longitude-latitude and humidity.This characteristics are really important for the making plan.I really appreciate this one! Great job.
+
 # Youtube presentation link:
 https://youtu.be/9zGuzYKIxBA
 
