@@ -14,6 +14,7 @@
 <img src="img/screenshot3.png" alt="">
 
 # Feedbacks
+https://drive.google.com/file/d/1nE2lcu0pnyRGzpfwtoP9CPdrvCIgm8F6/view?usp=sharing
 
 # Team Members List
 <h3>Bekmurzaev Elmir</h3>
