@@ -6,6 +6,13 @@
 <img src="img/screenshot.png" alt="">
 <img src="img/Screenshot1.png" alt="">
 
+# Openweather API
+<p>JSON</p>
+<img src="img/screenshot2.png" alt="">
+
+<p>Documentation</p>
+<img src="img/screenshot3.png" alt="">
+
 # Feedbacks
 
 # Team Members List
