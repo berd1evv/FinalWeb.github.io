@@ -7,6 +7,19 @@ body {
     align-items: center;
     height: 1000px;
 }
+.navbar{
+    display: flex;
+    background-color: black;
+    height: 80px;
+
+}
+.top_weather_icon{
+    display: block;
+    width: 150px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
 
 h1, h2, h3, p {
     color: white;
