@@ -73,9 +73,9 @@ h1, h2, h3, p {
 .fiveday {
     display: flex;
     height: 300px;
-    margin-left: 100px;
-    margin-right: 100px;
-    justify-content: space-evenly;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-around;
     align-items: center;
 }
 
