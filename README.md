@@ -1,10 +1,13 @@
-# Weather Website with API
+# Weather Website with API, jQuery
 
 <p>In this Weather webapplication we used OpenWeatherAPI. You can search any city in the world and it will show you weather condition there.</p>
 <p>You can see weather for today and another five days</p>
 
 <img src="img/screenshot.png" alt="">
 <img src="img/Screenshot1.png" alt="">
+
+# Notice
+We rewrote js file into jQuery AJAX
 
 # Openweather API
 <p>JSON</p>
